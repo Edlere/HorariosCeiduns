@@ -11,9 +11,7 @@ package horario_1.pkg0;
  */
 public class Login extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Login
-     */
+    Interfaz i = new Interfaz();
     public Login() {
         initComponents();
     }
@@ -53,11 +51,27 @@ public class Login extends javax.swing.JFrame {
 
         buttonGroup1.add(b);
         b.setText("B - CIENCIAS (Medicina y Enfermería)");
+        b.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                bActionPerformed(evt);
+            }
+        });
 
         buttonGroup1.add(c);
         c.setText("C - CIENCIAS (Biología y Biotecnología)");
+        c.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                cActionPerformed(evt);
+            }
+        });
 
-        d.setText("D - LETRAS");
+        buttonGroup1.add(d);
+        d.setText("D - EDUCACIÓN Y HUMANIDADES");
+        d.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                dActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -84,7 +98,7 @@ public class Login extends javax.swing.JFrame {
                 .addComponent(b)
                 .addGap(18, 18, 18)
                 .addComponent(c)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 13, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 17, Short.MAX_VALUE)
                 .addComponent(d)
                 .addContainerGap())
         );
@@ -135,7 +149,7 @@ public class Login extends javax.swing.JFrame {
                         .addGap(139, 139, 139))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(39, 39, 39)
+                        .addGap(35, 35, 35)
                         .addComponent(jButton1)
                         .addGap(31, 31, 31))))
         );
@@ -144,14 +158,14 @@ public class Login extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        Interfaz i = new Interfaz();
+       
         i.setVisible(true);
         
         
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void aActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_aActionPerformed
-        Interfaz i = new Interfaz();
+        
             i.AgregarCurso("Algebra");
             i.AgregarCurso("Aptitud matemática");
             i.AgregarCurso("Aptitud verbal");
@@ -162,8 +176,57 @@ public class Login extends javax.swing.JFrame {
             i.AgregarCurso("Geometría");
             i.AgregarCurso("Lenguaje");
             i.AgregarCurso("Química");
+            i.AgregarCurso("Trigonometría");
             
     }//GEN-LAST:event_aActionPerformed
+
+    private void bActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bActionPerformed
+        
+            i.AgregarCurso("Algebra");
+            i.AgregarCurso("Anatomía y Fisiología");
+            i.AgregarCurso("Aptitud matemática");
+            i.AgregarCurso("Aptitud verbal");
+            i.AgregarCurso("Aritmética");
+            i.AgregarCurso("Biología");
+            i.AgregarCurso("Ecología");
+            i.AgregarCurso("Economía");
+            i.AgregarCurso("Física");
+            i.AgregarCurso("Lenguaje");
+            i.AgregarCurso("Psicología");
+            i.AgregarCurso("Química");
+    }//GEN-LAST:event_bActionPerformed
+
+    private void cActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cActionPerformed
+            
+            i.AgregarCurso("Algebra");
+            i.AgregarCurso("Aptitud matemática");
+            i.AgregarCurso("Aptitud verbal");
+            i.AgregarCurso("Aritmética");
+            i.AgregarCurso("Biología");
+            i.AgregarCurso("Ecología");
+            i.AgregarCurso("Economía");
+            i.AgregarCurso("Física");
+            i.AgregarCurso("Lenguaje");
+            i.AgregarCurso("Psicología");
+            i.AgregarCurso("Química");
+    }//GEN-LAST:event_cActionPerformed
+
+    private void dActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_dActionPerformed
+            i.AgregarCurso("Algebra");
+            i.AgregarCurso("Aptitud matemática");
+            i.AgregarCurso("Aptitud verbal");
+            i.AgregarCurso("Aritmética");
+            i.AgregarCurso("Biología");
+            i.AgregarCurso("Ciudadanía");
+            i.AgregarCurso("Ecología");
+            i.AgregarCurso("Economía");
+            i.AgregarCurso("Filosofía");
+            i.AgregarCurso("Geografía");
+            i.AgregarCurso("Historia");
+            i.AgregarCurso("Lenguaje y Literatura");
+            i.AgregarCurso("Psicología");
+        
+    }//GEN-LAST:event_dActionPerformed
 
     /**
      * @param args the command line arguments
