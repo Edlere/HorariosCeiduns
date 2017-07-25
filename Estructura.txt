@@ -1,0 +1,11 @@
+Definicion de entradas
+
+Docentes + Aulas + Asignaturas 
+
+Metodologia a emplear:
+
+  -Definir las matrices de combinacion{ un cruce de todas las entradas }.
+  -Generar los cromosomas en base a las matrices y la aleatoriedad.
+  -Se realizan los cruces y mutaciones y se consigue la funcion objetivo {esta ultima se coloca en la matriz de cromosomas}.
+  -Se terminan las iteraciones y se muestra la mejor solucion.
+  
