@@ -157,10 +157,6 @@
                                   <Component id="tb9" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb10" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb11" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb12" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel34" min="-2" max="-2" attributes="0"/>
@@ -177,10 +173,6 @@
                                           <Component id="jLabel30" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                           <Component id="jLabel31" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="jLabel32" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="jLabel33" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <Group type="102" alignment="0" attributes="0">
                                           <Component id="tb2" min="-2" max="-2" attributes="0"/>
@@ -188,11 +180,32 @@
                                           <Component id="tb3" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace type="separate" max="-2" attributes="0"/>
                                           <Component id="tb4" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="tb5" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="tb6" min="-2" max="-2" attributes="0"/>
                                       </Group>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="tb11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                                          <Component id="tb5" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                                          <Component id="tb23" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                                          <Component id="tb29" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                                          <Component id="tb35" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                                          <Component id="tb17" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel32" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
@@ -205,10 +218,6 @@
                                   <Component id="tb21" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb22" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb23" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb24" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel38" min="-2" max="-2" attributes="0"/>
@@ -220,10 +229,6 @@
                                   <Component id="tb27" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb28" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb29" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb30" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel39" min="-2" max="-2" attributes="0"/>
@@ -235,10 +240,6 @@
                                   <Component id="tb33" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb34" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb35" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb36" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel36" min="-2" max="-2" attributes="0"/>
@@ -250,13 +251,9 @@
                                   <Component id="tb15" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb16" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb17" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb18" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
-                          <EmptySpace pref="31" max="32767" attributes="0"/>
+                          <EmptySpace pref="92" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                 </DimensionLayout>
@@ -270,79 +267,83 @@
                               <Component id="jLabel30" alignment="3" min="-2" max="-2" attributes="0"/>
                               <Component id="jLabel31" alignment="3" min="-2" max="-2" attributes="0"/>
                               <Component id="jLabel32" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="jLabel33" alignment="3" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <EmptySpace type="unrelated" max="32767" attributes="0"/>
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="jLabel34" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="tb1" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb2" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb3" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb4" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb5" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb6" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb7" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb8" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb9" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb10" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb11" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb12" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="jLabel34" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="tb1" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      <Component id="tb2" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      <Component id="tb3" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      <Component id="tb4" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb7" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb8" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb9" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb10" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel35" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel36" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb14" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb15" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb16" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="tb13" alignment="0" min="-2" pref="15" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb20" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb21" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb22" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="jLabel37" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="tb19" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb25" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb26" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb27" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb28" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel38" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb31" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb32" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb33" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb34" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel39" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
                               </Group>
-                              <Component id="jLabel35" alignment="0" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="jLabel36" alignment="0" min="-2" max="-2" attributes="0"/>
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb14" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb15" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb16" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb17" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb18" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Component id="tb5" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="tb11" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Component id="tb17" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Component id="tb23" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="tb29" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="tb35" min="-2" pref="15" max="-2" attributes="0"/>
                               </Group>
-                              <Component id="tb13" alignment="0" min="-2" pref="15" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb20" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb21" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb22" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb23" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb24" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="jLabel37" alignment="3" min="-2" max="-2" attributes="0"/>
-                                  <Component id="tb19" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
-                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb25" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb26" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb27" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb28" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb29" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb30" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                              <Component id="jLabel38" alignment="0" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb31" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb32" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb33" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb34" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb35" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb36" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                              <Component id="jLabel39" alignment="0" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <EmptySpace min="-2" pref="174" max="-2" attributes="0"/>
                       </Group>
@@ -373,11 +374,6 @@
                 <Component class="javax.swing.JLabel" name="jLabel32">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="Viernes"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JLabel" name="jLabel33">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="S&#xe1;bado"/>
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JLabel" name="jLabel34">
@@ -435,11 +431,6 @@
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
                 </Component>
-                <Component class="javax.swing.JToggleButton" name="tb6">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
                 <Component class="javax.swing.JToggleButton" name="tb7">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
@@ -461,11 +452,6 @@
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JToggleButton" name="tb11">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JToggleButton" name="tb12">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
@@ -495,11 +481,6 @@
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
                 </Component>
-                <Component class="javax.swing.JToggleButton" name="tb24">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
                 <Component class="javax.swing.JToggleButton" name="tb25">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
@@ -521,11 +502,6 @@
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JToggleButton" name="tb29">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JToggleButton" name="tb30">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
@@ -555,14 +531,6 @@
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
                 </Component>
-                <Component class="javax.swing.JToggleButton" name="tb36">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                  <Events>
-                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tb36ActionPerformed"/>
-                  </Events>
-                </Component>
                 <Component class="javax.swing.JToggleButton" name="tb13">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
@@ -584,11 +552,6 @@
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JToggleButton" name="tb17">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JToggleButton" name="tb18">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
@@ -620,10 +583,6 @@
                                   <Component id="tb45" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb46" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb47" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb48" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
@@ -634,28 +593,33 @@
                                   </Group>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Group type="103" groupAlignment="0" attributes="0">
-                                      <Group type="102" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
                                           <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace type="separate" max="-2" attributes="0"/>
                                           <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                           <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
                                       </Group>
-                                      <Group type="102" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
                                           <Component id="tb38" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace type="separate" max="-2" attributes="0"/>
                                           <Component id="tb39" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace type="separate" max="-2" attributes="0"/>
                                           <Component id="tb40" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="tb41" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="tb42" min="-2" max="-2" attributes="0"/>
                                       </Group>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="tb47" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                                          <Component id="tb41" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="tb59" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="tb65" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="tb71" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="tb53" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
@@ -668,10 +632,6 @@
                                   <Component id="tb57" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb58" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb59" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb60" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
@@ -683,10 +643,6 @@
                                   <Component id="tb63" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb64" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb65" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb66" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
@@ -698,10 +654,6 @@
                                   <Component id="tb69" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb70" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb71" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb72" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
@@ -713,13 +665,9 @@
                                   <Component id="tb51" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="tb52" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb53" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="tb54" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
-                          <EmptySpace pref="31" max="32767" attributes="0"/>
+                          <EmptySpace pref="92" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                 </DimensionLayout>
@@ -733,79 +681,83 @@
                               <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
                               <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
                               <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <EmptySpace type="unrelated" max="32767" attributes="0"/>
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="jLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="tb37" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb38" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb39" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb40" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb41" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              <Component id="tb42" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb43" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb44" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb45" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb46" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb47" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb48" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="jLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="tb37" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      <Component id="tb38" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      <Component id="tb39" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      <Component id="tb40" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb43" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb44" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb45" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb46" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb50" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb51" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb52" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="tb49" alignment="0" min="-2" pref="15" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb56" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb57" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb58" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="jLabel15" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="tb55" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb61" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb62" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb63" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb64" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="tb67" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb68" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb69" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                          <Component id="tb70" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                                  </Group>
                               </Group>
-                              <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb50" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb51" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb52" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb53" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb54" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Component id="tb41" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="tb47" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Component id="tb53" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                  <Component id="tb59" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="tb65" min="-2" pref="15" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="tb71" min="-2" pref="15" max="-2" attributes="0"/>
                               </Group>
-                              <Component id="tb49" alignment="0" min="-2" pref="15" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb56" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb57" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb58" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb59" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb60" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                              <Group type="103" groupAlignment="3" attributes="0">
-                                  <Component id="jLabel15" alignment="3" min="-2" max="-2" attributes="0"/>
-                                  <Component id="tb55" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
-                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb61" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb62" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb63" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb64" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb65" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb66" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                              <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                                  <Component id="tb67" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb68" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb69" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb70" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb71" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                                  <Component id="tb72" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
-                              </Group>
-                              <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <EmptySpace min="-2" pref="174" max="-2" attributes="0"/>
                       </Group>
@@ -836,11 +788,6 @@
                 <Component class="javax.swing.JLabel" name="jLabel10">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="Viernes"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JLabel" name="jLabel11">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="S&#xe1;bado"/>
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JLabel" name="jLabel12">
@@ -898,11 +845,6 @@
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
                 </Component>
-                <Component class="javax.swing.JToggleButton" name="tb42">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
                 <Component class="javax.swing.JToggleButton" name="tb43">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
@@ -924,11 +866,6 @@
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JToggleButton" name="tb47">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JToggleButton" name="tb48">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
@@ -958,11 +895,6 @@
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
                 </Component>
-                <Component class="javax.swing.JToggleButton" name="tb60">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
                 <Component class="javax.swing.JToggleButton" name="tb61">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
@@ -984,11 +916,6 @@
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JToggleButton" name="tb65">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JToggleButton" name="tb66">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
@@ -1018,11 +945,6 @@
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
                 </Component>
-                <Component class="javax.swing.JToggleButton" name="tb72">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
                 <Component class="javax.swing.JToggleButton" name="tb49">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
@@ -1044,11 +966,6 @@
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JToggleButton" name="tb53">
-                  <Properties>
-                    <Property name="text" type="java.lang.String" value="-"/>
-                  </Properties>
-                </Component>
-                <Component class="javax.swing.JToggleButton" name="tb54">
                   <Properties>
                     <Property name="text" type="java.lang.String" value="-"/>
                   </Properties>
@@ -1278,6 +1195,9 @@
                       <StringArray count="0"/>
                     </Property>
                   </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="combox_cursoActionPerformed"/>
+                  </Events>
                   <AuxValues>
                     <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
                   </AuxValues>
@@ -1373,35 +1293,30 @@
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Group type="102" attributes="0">
-                                              <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
-                                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                                              <Component id="jTextField4" min="-2" pref="119" max="-2" attributes="0"/>
-                                          </Group>
-                                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
-                                              <Group type="102" attributes="0">
-                                                  <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
-                                                  <EmptySpace max="32767" attributes="0"/>
-                                                  <Component id="jTextField3" min="-2" pref="119" max="-2" attributes="0"/>
-                                              </Group>
-                                              <Group type="102" attributes="0">
-                                                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
-                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                  <Component id="jTextField2" min="-2" pref="119" max="-2" attributes="0"/>
-                                              </Group>
-                                          </Group>
-                                      </Group>
-                                      <EmptySpace pref="24" max="32767" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jTextField4" min="-2" pref="119" max="-2" attributes="0"/>
                                   </Group>
-                                  <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                          <Component id="jTextField3" min="-2" pref="119" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="jTextField2" min="-2" pref="119" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
                                       <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
                                       <Component id="jTextField1" min="-2" pref="119" max="-2" attributes="0"/>
-                                      <EmptySpace min="146" max="32767" attributes="0"/>
                                   </Group>
                               </Group>
+                              <EmptySpace pref="24" max="32767" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="-2" pref="100" max="-2" attributes="0"/>
