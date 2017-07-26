@@ -1,6 +1,6 @@
 Definicion de entradas
 
-Docentes + Aulas + Asignaturas 
+Docentes + Aulas + Asignaturas...Agregue Horarios
 
 Metodologia a emplear:
 
