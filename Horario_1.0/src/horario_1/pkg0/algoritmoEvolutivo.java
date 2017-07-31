@@ -54,12 +54,16 @@ public class algoritmoEvolutivo {
             }
         }
         //Se cambian los padres por los Hijos
-        cromosomas.add(contC1*2, hijo1);
-        cromosomas.add((contC1*2)+1, hijo2);
+        cromosomas.add(contC1 * 2, hijo1);
+        cromosomas.add((contC1 * 2) + 1, hijo2);
     }
 
     public void funcionObjetivo() {
         cromosomasObjetivo = new int[cromosomas.size()];
+        for (int i = 0; i < cromosomas.size(); i++) {
+            int n=0,nc=0;//nc=Numero de cruces horarios, n=cantidad de secciones(los valores aun no se asignan)
+            cromosomasObjetivo[i] = 100 * ((n - nc) / n);
+        }
         ordenarSegunfuncion();//Se ordena segun los resuldos de la funcion
     }
 
